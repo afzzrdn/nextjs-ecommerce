@@ -9,15 +9,15 @@ This is a simple ecommerce using NextJS
 - 📦 CRUD Data
 - 📊 Dashboard Admin
 - 🌐 API RESTful
-- 💾 Connect to MongoDB/MySQL Database
+- 💳️ Stripe Payment Gateway
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js, Tailwind CSS
-- **Backend**: 
-- **Database**: MongoDB / Prisma + PostgreSQL
+- **Backend**:  Next.js
+- **Database**: Sanity.io
 - **Deployment**: Vercel
 
 ---
