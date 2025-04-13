@@ -22,7 +22,7 @@ This is a simple ecommerce using NextJS
 
 ---
 
-## ⚙️ Instalasi
+## ⚙️ Instalation
 
 ```bash
 # Clone project
